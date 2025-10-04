@@ -1,2 +1,2 @@
-# learn-github-
+# learn-github
 try to learn github
